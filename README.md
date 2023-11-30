@@ -1,6 +1,20 @@
 # Database-Sorter
-A simple code to sort and combine data however way you want. 
+Welcome to Database-Sorter, a versatile and easy-to-use tool for sorting and combining data according to your preferences.
 
-HOW TO USE - 
-There are two files in the folder that you need to pay attention to. One of the files is 'database.txt', this is where you insert any amounts of data or words. The other file is 'Style.txt', this is optional, but this is where you insert any data in which you want to combine with 'database.txt' or alter 'database.txt'. Once you run it, the output will be printed into 'FINAL.txt'.
-The code is designed to take in the data and create its own list in order to be sorted however way you want it.
+How It Works:
+
+The Database-Sorter comes with two key files:
+
+database.txt: This is your main data file. Here, you can input any amount of data or words you wish to sort or manipulate. It's designed to be flexible - whether you have a long list of items, words, or a combination of both.
+
+Style.txt (optional): This file allows you to add an extra layer to your data processing. You can use it to specify how you want to combine or alter the data in database.txt. It's a great way to customize the sorting process to fit your specific needs.
+
+Running the Tool:
+
+Once you've set up your data in database.txt and (optionally) in Style.txt, simply run the tool. The sorted or combined output will be neatly printed into FINAL.txt, ready for your review or further use.
+
+Behind the Scenes:
+
+Our code is designed with efficiency in mind. It takes your input data, constructs a list, and then sorts or combines it according to your specifications in Style.txt. The process is fast, reliable, and tailored to handle a variety of data sorting tasks.
+
+Whether you're organizing a database, collating research data, or simply need to sort a random list of items, Database-Sorter is the tool for you. It's straightforward, adaptable, and ready to make your data management tasks a breeze!
